@@ -97,16 +97,8 @@ The application includes comprehensive error handling for:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Google Gemini Pro and Gemini 1.5 Flash models for natural language processing
 - Gradio for the web interface
 - SQLite for database management
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact [your-contact-information].
