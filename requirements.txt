@@ -1,3 +1,4 @@
 gradio
 google-generativeai
 python-dotenv
+pandas
